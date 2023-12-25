@@ -1,0 +1,22 @@
+{
+  "name": "jgaugepanel",
+  "version": "1.0.0",
+  "description": "Shows 1-n configurable gauges in neat flow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jannvain/jgaugepanel.git"
+  },
+  "keywords": [
+    "gauge"
+  ],
+  "author": "Janne Vainio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jannvain/jgaugepanel/issues"
+  },
+  "homepage": "https://github.com/jannvain/jgaugepanel#readme"
+}
